@@ -9,7 +9,7 @@
 本脚本主要用于学习使用，请不要用于商业用途。有问题可以联系zou89757@gmail.com或者添加微信
 
 
-![wechat](https://github.com/Luck89757/duobaodao/blob/master/wechat.jpeg)
+<img src="https://github.com/Luck89757/duobaodao/blob/master/wechat.jpeg" alt="Sample"  width="150" height="150">
 
 2019.08.01夺宝岛修改了提交方式为post代码也做了相应的修改
 
